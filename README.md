@@ -1,3 +1,5 @@
+相关文章：https://www.cnblogs.com/throwable/p/12817754.html
+
 # <div align="center"><a href="#dummy"><img src="docs/logo-blue.png" alt="📌 TransmittableThreadLocal(TTL)"></a></div>
 
 > 📒 这个分支是`TransmittableThreadLocal(TTL) v3`，在开发中还没有发布。  
